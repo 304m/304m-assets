@@ -1,0 +1,10 @@
+{
+  "name": "304M",
+  "symbol": "304M",
+  "description": "304M is a community-driven meme culture token built for long-term growth.",
+  "image": "https://raw.githubusercontent.com/304m/304m-assets/main/304M.png",
+  "attributes": [
+    { "trait_type": "Category", "value": "Meme Token" },
+    { "trait_type": "Network", "value": "Solana" }
+  ]
+}
